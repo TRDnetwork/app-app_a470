@@ -1,0 +1,1 @@
+-- No database required — static landing page with no user data storage or backend API. All interactions (e.g. email form) are client-side UI only with no server submission.
